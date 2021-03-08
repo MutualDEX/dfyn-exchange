@@ -5,7 +5,7 @@
   "homepage": "https://exchange.dfyn.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dfyn/dfyn-exchange"
+    "url": "https://github.com/MutualDEX/dfyn-exchange"
   },
   "keywords": [
     "dfyn",
